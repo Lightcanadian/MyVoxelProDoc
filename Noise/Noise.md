@@ -24,4 +24,10 @@ Setup:
 |Manathan                       |Distance 2Sub              |![Image](Images/2021-04-23-21_27_47-Window.png)|
 |Manathan                       |Distance 2Mul              |![Image](Images/2021-04-23-21_28_11-Window.png)|
 |Manathan                       |Distance 2Div              |![Image](Images/2021-04-23-21_29_06-Window.png)|
-| Distance Function = Natural   |![Image](Images/2021-04-23-19_11_08-Window.png)|
+|Natural                        |Cell Value                 |![Image](Images/2021-04-23-19_11_08-Window.png)|
+|Natural                        |Distance                   |![Image](Images/2021-04-23-21_46_44-Window.png)|
+|Natural                        |Distance 2                 |![Image](Images/2021-04-23-21_47_24-Window.png)|
+|Natural                        |Distance 2Add              |![Image](Images/2021-04-23-21_48_01-Window.png)|
+|Natural                        |Distance 2Sub              |![Image](Images/2021-04-23-21_48_38-Window.png)|
+|Natural                        |Distance 2Mul              |![Image](Images/2021-04-23-21_49_29-Window.png)|
+|Natural                        |Distance 2Div              |![Image](Images/2021-04-23-21_50_02-Window.png)|
