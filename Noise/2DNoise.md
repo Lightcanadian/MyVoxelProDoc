@@ -1,4 +1,6 @@
 # Voxel Pro Noise
+I am a visual person and always forget which node do what, so i made a library of all the available noise.
+
 
 **For all setup displayed here, they were not optimise for actual generation and might give oversize generation. In most case the issue can be fix by adding a "2D Noise SDF" node just before "Set value"**
 
